@@ -1,0 +1,23 @@
+{
+  "name": "js-strings",
+  "version": "1.0.0",
+  "description": "extract strings from javascript",
+  "main": "strings.js",
+  "dependencies": {
+    "shift-parser": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelblakeoit/js-strings.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/michaelblakeoit/js-strings/issues"
+  },
+  "homepage": "https://github.com/michaelblakeoit/js-strings#readme"
+}
